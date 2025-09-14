@@ -1,2 +1,4 @@
 # photorch
-A tiny, domain-focused toolkit for learning from 1-D physics signals (spectra &amp; time-series).
+
+**photorch** is a *teaching-size* a tiny, readable autograd + training micro-framework for physics research and education.  
+
